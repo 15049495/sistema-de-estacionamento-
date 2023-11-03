@@ -1,0 +1,7 @@
+name space desafio fundamentos.models
+[
+public class estacionamento
+{
+private decimal preço Inicial=;
+private decimal por hora=;
+private list<string> veiculos= new list<string>();
